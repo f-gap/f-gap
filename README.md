@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1 align="center">Gabriel Portela</h1>
+
+<p align="center">
+  I like understanding how things work <br>
+  and building solutions from first principles.
+</p>
+
+<p align="center">
+  Software • Systems • Engineering
+</p>
+
+<p aling="center"> <img src="https://skillicons.dev/icons?i=java,spring,html,css,git,github,vscode" /> </p>
 
 <!--
 **f-gap/f-gap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
